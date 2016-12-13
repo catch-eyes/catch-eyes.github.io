@@ -3,6 +3,7 @@ layout: post
 title:  "앞으로의 계획을 알려드립니다!"
 comments: true
 categories: plan
+published: true
 ---
 
 안녕하세요!  

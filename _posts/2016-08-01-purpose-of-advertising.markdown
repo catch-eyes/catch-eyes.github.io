@@ -3,6 +3,7 @@ layout: post
 title:  "광고의 목적은 무엇인가요?"
 comments: true
 categories: help
+published: false
 ---
 
 유기동물에게 도움을 주자는 좋은 취지를 가진 앱에 광고가 노출되고 있어 혹시 마음이 상하셨나요?  

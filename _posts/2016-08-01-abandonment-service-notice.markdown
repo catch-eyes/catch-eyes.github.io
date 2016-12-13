@@ -3,6 +3,7 @@ layout: post
 title:  "동물보호관리시스템 안내"
 comments: true
 categories: notices
+published: true
 ---
 
 안녕하세요!  
