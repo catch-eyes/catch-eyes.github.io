@@ -1,4 +1,5 @@
 ---
+date: 2016-12-13 14:10:00 +0900
 layout: post
 title:  "동물보호관리시스템 안내"
 comments: true

@@ -1,4 +1,5 @@
 ---
+date: 2016-12-13 14:13:00 +0900
 layout: post
 title:  "앞으로의 계획을 알려드립니다!"
 comments: true

@@ -1,4 +1,5 @@
 ---
+date: 2016-08-03 18:55:00 +0900
 layout: post
 title:  "광고의 목적은 무엇인가요?"
 comments: true
